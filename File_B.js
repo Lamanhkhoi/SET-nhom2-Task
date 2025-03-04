@@ -1,6 +1,9 @@
-// Number to check
-let number = 7;
-// Check if divisible by 2
-let isEven = ( number % 2 == 0)
-// Print result
-console.log("Number " + number + " is " + (isEven ? "even" : "odd"));
+// Calculate Simple Interest ( principle * rate * time )
+
+// Variables for principal, rate, and time
+let principal = 1000;
+let rate = 1.5
+let time = 3 // Time in years
+
+// Print the result
+console.log("The Interest is : " + interest.toFixed(2));
